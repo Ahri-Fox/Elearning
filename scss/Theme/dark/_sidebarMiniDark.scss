@@ -1,0 +1,10 @@
+.darkMode{
+    .sidebarMini{
+        background-color: $color-dark-0;
+        color: $color-white-0;
+        .siderbarMini__Button{
+            background-color: $color-dark-0;
+            border-color: $color-dark-0;
+        }
+    }
+}
